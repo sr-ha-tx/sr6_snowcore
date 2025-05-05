@@ -1,0 +1,1 @@
+![](Images\ecosystem-overview.png)
